@@ -1,0 +1,8 @@
+/target
+
+tags
+
+*.lock
+*.o
+*.so
+
